@@ -1,0 +1,10 @@
+name: pb_app
+title:
+username:
+account: fiveparametric
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 656771
+bundleId: 1844972
+url: https://fiveparametric.shinyapps.io/pb_app/
+when: 1548816692.7962
